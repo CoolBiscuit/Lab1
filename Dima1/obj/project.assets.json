@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\сс\\Dima1\\Dima1\\Dima1.csproj",
+      "projectUniqueName": "D:\\cc\\Dima1\\Dima1\\Dima1.csproj",
       "projectName": "Dima1",
-      "projectPath": "D:\\сс\\Dima1\\Dima1\\Dima1.csproj",
+      "projectPath": "D:\\cc\\Dima1\\Dima1\\Dima1.csproj",
       "packagesPath": "C:\\Users\\vorot\\.nuget\\packages\\",
-      "outputPath": "D:\\сс\\Dima1\\Dima1\\obj\\",
+      "outputPath": "D:\\cc\\Dima1\\Dima1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vs2\\NuGetPackages"
